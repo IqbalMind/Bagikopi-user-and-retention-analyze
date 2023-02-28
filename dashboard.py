@@ -1,6 +1,7 @@
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objs as go
+from plotly.subplots import make_subplots
 
 # Load data from CSV file
 df = pd.read_csv("bagikopi_website_data.csv")
