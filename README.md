@@ -6,6 +6,7 @@ Before running the Python code, make sure you have the following installed:
 - Python 3.0 or higher
 - pandas module (can be installed with **pip install pandas**)
 - matplotlib module (can be installed with **pip install matplotlib**)
+- plotly module (can be installed with **pip install plotly**)
 
 ## License
 This project is licensed under the MIT License. See the [License](https://choosealicense.com/licenses/mit/) file for details.
@@ -13,4 +14,5 @@ This project is licensed under the MIT License. See the [License](https://choose
 ## Acknowledgements
 - bagikopi.id website ([https://bagikopi.id/](https://bagikopi.id/))
 - pandas module ([https://pandas.pydata.org/](https://pandas.pydata.org/))
-- matplotlib module ([https://pillow.readthedocs.io/en/stable/](https://matplotlib.org/))
+- matplotlib module ([https://matplotlib.org/](https://matplotlib.org/))
+- plotly module ([https://dash.plotly.com/](https://dash.plotly.com/))
